@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot]<img src="https://i.ibb.co/1QnYGSm/ahammad204-github-io-My-gallary.png" alt="">
+![screenshot](https://i.ibb.co/1QnYGSm/ahammad204-github-io-My-gallary.png)
 
 ### Built With
 
