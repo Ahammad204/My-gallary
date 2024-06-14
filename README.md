@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://i.ibb.co/NrrWvYf/ahammad204-github-io-My-gallary.png)
+![screenshot](https://i.ibb.co/pLNcq7w/Screenshot-2024-06-14-221633.png)
 
 If Image is not working click [Here](https://i.ibb.co/NrrWvYf/ahammad204-github-io-My-gallary.png)
 
